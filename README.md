@@ -8,7 +8,7 @@ This code will parse CRU data into a SQLite database with the following format, 
 | 1    | 148  | 2/1/1991 | 2820  |
 | ...  | ...  | ...      | ...   |
 
-Details of the data can be found on the [CRU data homepage](https://crudata.uea.ac.uk/~timm/grid/CRU_TS_2_1.html).  
+Details of the data can be found on the [CRU data](https://crudata.uea.ac.uk/~timm/grid/CRU_TS_2_1.html) homepage.  
 
 ## Python environment
 
