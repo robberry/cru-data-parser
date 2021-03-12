@@ -1,6 +1,6 @@
 # CRU data parser
 
-This code will parse the CRU data into a SQLite database with the following format, which is then a bit easier to work with and pull statistics from.
+This code will parse CRU data into a SQLite database with the following format, which is then a bit easier to work with and pull statistics from.
 
 | Xref | Yref | Date     | Value |
 | :--- | :--- | :------- | :---- |
