@@ -97,7 +97,7 @@ def main(db_file, cru_file):
     # Do a final commit to catch anything missing from the counter
     db.commit()
     db.close()
-    logger.info("Processed {} grid cells, containing {} rainfall readings".format(cell_counter, value_counter))
+    logger.info(f"Processed {cell_counter} grid cells, containing {value_counter} rainfall readings")
 
 
 if __name__ == "__main__":
